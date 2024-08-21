@@ -5,7 +5,7 @@ Meu nome é Rosana Tiburtino 🍒🌟
 
 - Aluna de tecnologia Robótica [Alura](https://www.alura.com.br)
 - Estou desenvolvendo na programação JavaScript
-- utilizo este espaço para organização e compartilharmento de projetos;
+- Utilizo este espaço para organização e compartilharmento de projetos;
 -->
 
 
